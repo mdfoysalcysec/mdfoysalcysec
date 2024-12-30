@@ -11,8 +11,7 @@ while not success:  # Keep trying until success is achieved
         print(f"Success after {i} attempts!")
 ```
 
-Skills: 
---------
+# Skills
 - Git, Github, Linux, Networking,
 - Fontend Design: HTML, CSS, BOOTSTRAP
 -Backend Design: SQL, PHP
@@ -24,7 +23,4 @@ Skills:
 - 🌱 I’m currently learning distinct topic Like- Cryptography, Steganography, Digital forensic, SOC Activity and Large Language Model(subsector of genarative AI)   
 - 🤔 I’m looking for help with Cyber Security Expert who has extra ordinary knowledge about Threat Intelligence. 
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/mdfoysalcysec) | [Email](mdfoysal.cysec@gmail.com)| [Website](https://mdfoysal.com) 
-- ⚡ Fun fact: I like solving CTF, exploring open-source projects and work with huge number of data! 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mdfoysalcysec)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mdfoysalcysec/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mdfoysalcysec)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mdfoysal.com)  
+- ⚡ Fun fact: I like solving CTF, exploring open-source projects and work with huge number of data!
