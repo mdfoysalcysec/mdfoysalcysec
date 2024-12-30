@@ -19,7 +19,7 @@ Skills:
 - Programming Language: C, Java, Python
 - Machine Learning Models, Non-Deep Learning & Deep Learning Models, NLP  
 
-#About Myself
+# About Myself
 - 🔭 I’m currently working on Artificial Intelligence and Cyber Security. 
 - 🌱 I’m currently learning distinct topic Like- Cryptography, Steganography, Digital forensic, SOC Activity and Large Language Model(subsector of genarative AI)   
 - 🤔 I’m looking for help with Cyber Security Expert who has extra ordinary knowledge about Threat Intelligence. 
