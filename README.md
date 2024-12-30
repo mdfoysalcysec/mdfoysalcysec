@@ -1,7 +1,6 @@
-### Hi there 👋, This is Md Foysal.
-#### I am a student of Cyber Security and gaining knowledge about Cyber Forensics. 
+# Hi there 👋, This is Md Foysal.
+## I am a student of Cyber Security and gaining knowledge about Cyber Forensics. 
 ```python
-# Infinite pursuit of success
 i = 0  # Starting point
 success = False  # Initial state of success
 
@@ -10,8 +9,15 @@ while not success:  # Keep trying until success is achieved
     if i == 42:  # Define success condition
         success = True  # Success achieved
         print(f"Success after {i} attempts!")
+```
 
-Skills: Git/ Github/ Linux/ Networking/ Fontend Design/ Programming Language: C, Java, Python;/ Machine Learning Models/ Deep Learning Models/ NLP;  
+####Skills: 
+--------
+- Git, Github, Linux, Networking,
+- Fontend Design: HTML, CSS, BOOTSTRAP
+-Backend Design: SQL, PHP
+- Programming Language: C, Java, Python
+- Machine Learning Models, Non-Deep Learning & Deep Learning Models, NLP  
 
 - 🔭 I’m currently working on Artificial Intelligence and Cyber Security. 
 - 🌱 I’m currently learning distinct topic Like- Cryptography, Steganography, Digital forensic, SOC Activity and Large Language Model(subsector of genarative AI)   
