@@ -1,3 +1,5 @@
+
+<html>
 <style>
         body {
             font-family: Arial, sans-serif;
@@ -29,7 +31,7 @@
 <body>
     <div class="typing">Hello there! This is Md Foysal</div>
 </body>
-
+</html>
 
 
 
